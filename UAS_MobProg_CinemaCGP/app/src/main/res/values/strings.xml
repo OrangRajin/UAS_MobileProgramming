@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UAS_MobProg_CinemaCGP</string>
+    <string name="home">Home</string>
+    <string name="bioskop">Bioskop</string>
+    <string name="maps">Maps</string>
+    <string name="profile">Contact_Us</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cinema_address">Cinema Address</string>
+</resources>
